@@ -5,3 +5,5 @@ print("Viso gero")
 print("Programos pabaiga")
 
 print("Pakeitimas")
+
+print("Dar vienas")
